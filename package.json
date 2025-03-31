@@ -34,6 +34,7 @@
 		"@288-toolkit/i18n": "10.0.1",
 		"@288-toolkit/strings": "4.3.1",
 		"@contentful/rich-text-html-renderer": "17.0.0",
+		"@payloadcms/richtext-lexical": "^3.31.0",
 		"@prgm/sveltekit-progress-bar": "3.0.2",
 		"@sentry/sveltekit": "9.8.0",
 		"@sentry/vite-plugin": "3.2.2",
